@@ -1,3 +1,6 @@
+# DLT Viewer is on Flathub!
+This repository is archived. You can find [DLT Viewer](https://flathub.org/apps/details/org.genivi.DLTViewer) and [its manifest](https://github.com/flathub/org.genivi.DLTViewer) on Flathub.
+
 # dlt-viewer-flatpak
 Flatpak manifest for building DLT-Viewer
 
